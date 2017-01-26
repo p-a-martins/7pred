@@ -41,6 +41,8 @@ or
 
 2.1 - Enter file name (e.g., ProteinsIDs.txt)
 
+*(Note: Uncompress the files ./data/blast/blast.rar and ./data/blast/uniprot-human.rar)*
+
 
 ## Output:
 Seven .txt files, each one representing a predictive model, with the prediction's results.
