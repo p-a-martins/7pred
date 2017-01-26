@@ -2,9 +2,13 @@
 *Prediction of subcellular localization of human proteins using Meka [1,2] libraries*
 
 The **7pred** is a set of seven **GO-based predictors** able to predict the subcellular localization of human proteins.
+
 A recent human benchmark dataset [3] and two methods of problem transformation, **Classifer Chain (CC)** and **Label Cardinality (LC)**, along with two single-label classifiers, **SMO** and **J48**, were used to create the predictive models.
+
 **Leave-one-out cross-validation** was used to evaluate the performance of the predictors.
+
 Proteins are represented by vectors with 429 (T-B2) and 87 (T-C2) elements (essencial GO terms selected by mEN and mLASSO classifiers [4]).
+
 The predictive models created achieved an overall success rate between 69.2 and 72.3% (overall actual accuracy or exact match) and between 76.1 and 80.3% (overall locative accuracy).
 
 ## Predictors:
