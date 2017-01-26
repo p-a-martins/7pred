@@ -30,6 +30,11 @@ The predictive models created achieved an overall success rate between 69.2 and 
 
 
 ## Input:
+
+*(Note: Uncompress the files ./data/blast/blast.rar and ./data/blast/uniprot-human.rar)*
+
+Run 7pred.py
+
 1 - UniProtKB Accession Number(s) (multiple accession numbers should be separated with commas): Enter 1"
 
 1.1 - Enter UniProtKB Accession Number(s) (e.g., P20618,P15531,P07384)
@@ -41,7 +46,6 @@ or
 
 2.1 - Enter file name (e.g., ProteinsIDs.txt)
 
-*(Note: Uncompress the files ./data/blast/blast.rar and ./data/blast/uniprot-human.rar)*
 
 
 ## Output:
